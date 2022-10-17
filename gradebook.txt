@@ -1,0 +1,8 @@
+MCS 260 Gradebook Fall 2022
+Last Name, First Name, Exam 1, Exam 2, Project 1, Quiz 1, Quiz 2, Percent Grade, Letter Grade
+Weights, , 15, 15, 20, 5, 5, , 
+Max, Scores, 100, 100, 100, 10, 10, ,
+Cota, Ed, 76, 82, 91, 5, 4, 77.33, B
+Shakespeare, William,43,39,56,7,2,46.67, F
+Knuth, Donald,99,99,100,9,10,98.67, A
+Parker, Peter, 77,88,33,4,7, 61.42, D
